@@ -9,7 +9,7 @@ As stated above, the main purpose is to provide a simple example for Git trainin
 ##Deployment
 This is a simple web project, deployment can be on any web server or even local file system. 
 ## How to contribute
-
+Please fork this repository and then issue Pull requests for review.
 ###Copyright
 2019 Git.Training.
 
