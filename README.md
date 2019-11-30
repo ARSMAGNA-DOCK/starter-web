@@ -1,6 +1,6 @@
 # Starter Web Repo
 
-This is a simple web project to show how Git and GitHub work. Adding an emergency fix for stashing purposes. 
+This is a simple web project to show how Git and GitHub work. Adding an emergency fix for stashing purposes. Adding content to the web repo area.
 
 ##Introduction
 This example is to show different parts of the Git repository and various commands using a web project.
